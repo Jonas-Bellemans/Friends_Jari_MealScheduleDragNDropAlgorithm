@@ -1,0 +1,13 @@
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.exe
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.deps.json
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.runtimeconfig.json
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.runtimeconfig.dev.json
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.dll
+C:\Temp\Jari_AppMealScheduling\bin\Debug\netcoreapp3.1\Jari_AppMealScheduling.pdb
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.csprojAssemblyReference.cache
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.AssemblyInfoInputs.cache
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.AssemblyInfo.cs
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.csproj.CoreCompileInputs.cache
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.dll
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.pdb
+C:\Temp\Jari_AppMealScheduling\obj\Debug\netcoreapp3.1\Jari_AppMealScheduling.genruntimeconfig.cache
